@@ -46,8 +46,8 @@
 #   error Platform not defined
 #endif // end IDE
 
-#include "lcd1602a/LCD1602A.hpp"
-#include "lcd1602a/LCD1602A.cpp"
+#include <LCD1602A.hpp>
+#include <LCD1602A.cpp>
 
 LCD1602A lcd;
 
